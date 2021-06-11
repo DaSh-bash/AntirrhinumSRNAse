@@ -2,7 +2,8 @@
 
 
 
-1. module load mummer
+1. module load mummer (IST)
+module load MUMmer/4.0.0rc1 (UPPMAX)
 
 
 We will align using nucmer
