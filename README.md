@@ -23,6 +23,8 @@ Files related to Antirrhinum SRNAse project
            c. place known SRNAses and conservative regions 
            d. (Geneious annotate, use RNAseq data)
     b. Mapping to the reference
+            a. Use BWA
+            b. Geneious: manual curation
     a. Phylogeny and origin (+other species
     b. Some insights on structure and function
 3. Distribution of S-allels in the hybrid zone
