@@ -20,14 +20,14 @@ Files related to Antirrhinum SRNAse project
         - focus on the gap 
         - try to force Geneious 
         - try BLAST (word-size) 
-        - place known SRNAses and conservative regions \
-        - (Geneious annotate, use RNAseq data) \
-    b. Mapping to the reference \
-            a. Use BWA \
-            b. Geneious: manual curation \
-            \bold{c. Manual or computational phasing} \
-    a. Phylogeny and origin (+other species \
-    b. Some insights on structure and function \
+        - place known SRNAses and conservative regions 
+        - (Geneious annotate, use RNAseq data) 
+    - Mapping to the reference 
+        - Use BWA
+        - Geneious: manual curation 
+        - Manual or computational phasing
+    - Phylogeny and origin (+other species)
+    - Some insights on structure and function
 3. Distribution of S-allels in the hybrid zone \
     a. Frequency in the population \
     b. Spacial distribution: no barrier \
