@@ -2,26 +2,26 @@
 Files related to Antirrhinum SRNAse project
 
 ## Project goals:
-- Description of the new S-alleles \ 
-    - New reference for S-locus, compare with previous ones \
-    - Phylogeny and origin (+other species) \
-    - Some insights on structure and function: synteny/structural rearrangements visualization \
+- Description of the new S-alleles 
+    - New reference for S-locus, compare with previous ones 
+    - Phylogeny and origin (+other species) 
+    - Some insights on structure and function: synteny/structural rearrangements visualization 
     
-2. Distribution of S-allels in the hybrid zone \
-    a. Frequency in the population \
-    b. Spacial distribution: no barrier \
-    b. Association with phenotype? \
-    b. Maybe F-boxes? \
+- Distribution of S-allels in the hybrid zone 
+    - Frequency in the population
+    - Spacial distribution: no barrier
+    - Association with phenotype?
+    - Maybe F-boxes? 
 
 ## Steps/To Do:
-1. Literature review, keep track of papers, think about journal
-2. Description of the new S-alleles \
-    а. Polishing the reference: \
-           a. focus on the gap \
-           b. try to force Geneious \
-           b. try BLAST (word-size) \
-           c. place known SRNAses and conservative regions \
-           d. (Geneious annotate, use RNAseq data) \
+- Literature review, keep track of papers, think about journal
+- Description of the new S-alleles 
+    - Polishing the reference: 
+        - focus on the gap 
+        - try to force Geneious 
+        - try BLAST (word-size) 
+        - place known SRNAses and conservative regions \
+        - (Geneious annotate, use RNAseq data) \
     b. Mapping to the reference \
             a. Use BWA \
             b. Geneious: manual curation \
