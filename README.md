@@ -28,10 +28,10 @@ Files related to Antirrhinum SRNAse project
         - Manual or computational phasing
     - Phylogeny and origin (+other species)
     - Some insights on structure and function
-3. Distribution of S-allels in the hybrid zone \
-    a. Frequency in the population \
-    b. Spacial distribution: no barrier \
-    b. Association with phenotype? \
-    b. Maybe F-boxes? \
-4. Write the paper
-5. Publish in Nature 
+- Distribution of S-allels in the hybrid zone
+    - Frequency in the population 
+    - Spacial distribution: no barrier 
+    - Association with phenotype?
+    - Maybe F-boxes? 
+- Write the paper
+- Publish in Nature 
