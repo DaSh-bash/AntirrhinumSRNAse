@@ -2,10 +2,10 @@
 Files related to Antirrhinum SRNAse project
 
 ## Project goals:
-1. Description of the new S-alleles \ 
-    a. New reference for S-locus, compare with previous ones \
-    b. Phylogeny and origin (+other species) \
-    b. Some insights on structure and function: synteny/structural rearrangements visualization \
+- Description of the new S-alleles \ 
+    - New reference for S-locus, compare with previous ones \
+    - Phylogeny and origin (+other species) \
+    - Some insights on structure and function: synteny/structural rearrangements visualization \
     
 2. Distribution of S-allels in the hybrid zone \
     a. Frequency in the population \
