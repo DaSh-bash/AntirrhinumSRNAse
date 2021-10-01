@@ -14,7 +14,7 @@ Files related to Antirrhinum SRNAse project
     b. Maybe F-boxes? \
 
 ## Steps/To Do:
-1. Literature review
+1. Literature review, keep track of papers, think about journal
 2. Description of the new S-alleles \
     а. Polishing the reference:
            a. focus on the gap
@@ -25,7 +25,13 @@ Files related to Antirrhinum SRNAse project
     b. Mapping to the reference
             a. Use BWA
             b. Geneious: manual curation
+            \bold{c. Manual or computational phasing}
     a. Phylogeny and origin (+other species
     b. Some insights on structure and function
 3. Distribution of S-allels in the hybrid zone
-    a. Cline, association with phenotype
+    a. Frequency in the population \
+    b. Spacial distribution: no barrier \
+    b. Association with phenotype? \
+    b. Maybe F-boxes? \
+4. Write the paper
+5. Publish in Nature 
