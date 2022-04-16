@@ -35,3 +35,11 @@ Files related to Antirrhinum SRNAse project
     - Maybe F-boxes? 
 - Write the paper
 - Publish in Nature 
+
+
+https://www.nature.com/articles/s41598-021-83243-8
+https://www.frontiersin.org/articles/10.3389/fpls.2019.00407/full
+https://www.sciencedirect.com/science/article/pii/S0304423820304581?casa_token=dpOZSrj8Y7UAAAAA:GM6eWVXN1wFWM7coroMrf35ul18qFfdDRAKiyi2CgQC6C1MUF5ljZiPxhFZuxmy9Y-gz9C7n-A
+https://link.springer.com/article/10.1007/s11103-019-00860-8
+https://academic.oup.com/pcp/article/43/10/1073/1849398?login=true
+
